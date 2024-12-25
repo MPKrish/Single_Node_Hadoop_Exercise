@@ -1,0 +1,5 @@
+test the hadoop.
+assignment 2
+Docker images have containers
+containers name hadoop
+hadoop assignment
